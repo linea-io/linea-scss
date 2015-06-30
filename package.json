@@ -1,0 +1,31 @@
+{
+  "name": "linea-scss",
+  "version": "1.0.0",
+  "description": "SCSS version of Linea, a free outline iconset featuring 730+ icons.",
+  "main": "linea.scss",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/linea-io/linea-scss.git"
+  },
+  "keywords": [
+    "icons",
+    "iconset",
+    "icon",
+    "font",
+    "scss",
+    "compass",
+    "sass"
+  ],
+  "contributors": [
+    {"name": "Dario Ferrando", "url": "http://www.dario.io"},
+    {"name": "Benjamin Sigidi", "url": "https://github.com/benjaminsigidi"}
+  ],
+  "license": "CCBY",
+  "bugs": {
+    "url": "https://github.com/linea-io/linea-scss/issues"
+  },
+  "homepage": "https://github.com/linea-io/linea-scss#readme"
+}
