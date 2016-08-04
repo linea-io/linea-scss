@@ -1,4 +1,4 @@
-$icon_software_path:                                   '../fonts/software/';
+$icon_software_path:                                   'software/';
 $icon_software_name:                                   'linea-software-10';
 $icon_software_short:                                  'software';
 
@@ -11,7 +11,7 @@ $icon_software_short:                                  'software';
     font-family: $icon_software_name;
     @include ico-font-base;
   }
-  
+
 .icon-software-add-vectorpoint                    { &:before { content: "a"; } }
 .icon-software-box-oval                           { &:before { content: "b"; } }
 .icon-software-box-polygon                        { &:before { content: "c"; } }
